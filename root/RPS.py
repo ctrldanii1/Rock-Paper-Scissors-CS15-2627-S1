@@ -65,8 +65,8 @@ while True:
     if player_wins == 3 or cpu_wins == 3:
         break
 
- if player_wins == 3
-     print("PLAYER WINS!!!")
- else:
-     print("CPU WINS!!!")
+    if player_wins == 3:
+         print("PLAYER WINS!!!")
+    else:
+         print("CPU WINS!!!")
 
